@@ -1,0 +1,41 @@
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.exe.config
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.exe
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.pdb
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csprojResolveAssemblyReference.cache
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Properties.Resources.resources
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csproj.GenerateResource.Cache
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.exe
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.pdb
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_MDI.resources
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_EmployeeList.resources
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_EmployeeDetails.resources
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\bin\Debug\Database_Lab02_Employees.mdf
+C:\Users\KyThuat88\Documents\Visual Studio 2015_\C_Sharp Term3\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\bin\Debug\Database_Lab02_Employees_log.ldf
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\bin\Debug\Database_Lab02_Employees.mdf
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\bin\Debug\Database_Lab02_Employees_log.ldf
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.exe.config
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.exe
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.pdb
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csprojAssemblyReference.cache
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_EmployeeDetails.resources
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_EmployeeList.resources
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_MDI.resources
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Properties.Resources.resources
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csproj.GenerateResource.cache
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csproj.CoreCompileInputs.cache
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.exe
+D:\Apt\Kì 3\WinForm\Của Lab02\bài làm\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.pdb
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\bin\Debug\Database_Lab02_Employees.mdf
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\bin\Debug\Database_Lab02_Employees_log.ldf
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.exe.config
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.exe
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\bin\Debug\Lab02_CSDL_Employees.pdb
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csprojAssemblyReference.cache
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_EmployeeDetails.resources
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_EmployeeList.resources
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Form_MDI.resources
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.Properties.Resources.resources
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csproj.GenerateResource.cache
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.csproj.CoreCompileInputs.cache
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.exe
+D:\Apt\Kì 3\WinForm\show\Lab02_CSDL_Employees\Lab02_CSDL_Employees\obj\Debug\Lab02_CSDL_Employees.pdb
